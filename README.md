@@ -5,6 +5,8 @@ This Project Aims to cluster large amount of literatures into number of similar 
 
 ### Kaggle Link: https://www.kaggle.com/code/remonboshra/covid-19-literature-clustering-2022
 
+### Interactive Plot: https://github.com/Remon128/Covid-19-Literature-Clustering-v2022/blob/main/t-sne_covid-19_interactive.html
+
 ## Table of Contents
 ### 1- Loading the data
 ### 2- Pre-processing
