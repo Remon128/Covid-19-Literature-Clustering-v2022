@@ -3,7 +3,7 @@ In this project I am solving a hard problem facing the medical scientists which 
 
 This Project Aims to cluster large amount of literatures into number of similar Groups related to each other, and applying the Topic-Model approach to name a Topic for each cluster to make it easier understanding what every cluster's information, also by Implementing an Interactive Plot using Bokeh , so that it any one can use by clicking on any cluster and gets the information needed.
 
-### Kaggle Link: https://www.kaggle.com/code/remonboshra/covid-19-literature-clustering-2022
+### Kaggle Link: https://www.kaggle.com/code/remonboshra/covid-19-literature-clustering-2022 
 
 ### Interactive Plot: https://github.com/Remon128/Covid-19-Literature-Clustering-v2022/blob/main/t-sne_covid-19_interactive.html
 
